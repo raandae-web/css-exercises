@@ -1,0 +1,15 @@
+.rutton1,
+.mutton1 {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.rutton1{
+    background-color: black;
+    color: white;
+}
+
+.mutton1{
+    background-color: yellow;
+    color: black;
+}
