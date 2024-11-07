@@ -37,7 +37,7 @@ body {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
-  max-width: 400px;
+  max-width: 300px;
   max-height: 300px;
   flex-wrap: wrap;
   padding: 20px;
@@ -52,6 +52,7 @@ body {
   flex: 1;
   flex-wrap: wrap;
   gap: 20px;
+  
 
 }
 
@@ -59,8 +60,9 @@ body {
   display: flex;
   flex: 1;
   flex-wrap: wrap;
-  gap: 20px;
+  gap: 40px;
   padding-top: 20px;
+  padding-left: 50px;
 
 }
 
